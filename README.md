@@ -4,7 +4,7 @@
 
 Most AI tooling assumes fast internet, deep pockets, and cloud servers. That's not the reality for most small businesses across Africa, and it doesn't have to be. This project runs a real, usable language model directly on ordinary hardware: no subscription, no cloud dependency, and nothing typed into it ever leaves the device.
 
-Built and maintained by [Fine Tuned Logic](https://www.linkedin.com/in/tasneemmahomed), under [FTL Collective](https://ftlcollective.github.io/ftl-portfolio/).
+Built and maintained by (https://www.linkedin.com/in/tasneemmahomed) , (https://ftlcollective.github.io/ftl-portfolio/).
 
 ---
 
