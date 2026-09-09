@@ -4,8 +4,6 @@
 
 Most AI tooling assumes fast internet, deep pockets, and cloud servers. That's not the reality for most small businesses across Africa, and it doesn't have to be. This project runs a real, usable language model directly on ordinary hardware: no subscription, no cloud dependency, and nothing typed into it ever leaves the device.
 
-A lightweight LLM setup built to run entirely on 8GB-RAM devices, no cloud, no subscription. Built for African SMEs where hardware constraints are the reality, not an edge case. Includes a full setup guide. By Fine Tuned Logic / FTL Collective.
-
 Built and maintained by [Fine Tuned Logic](https://www.linkedin.com/in/tasneemmahomed), under [FTL Collective](https://ftlcollective.github.io/ftl-portfolio/).
 
 ---
